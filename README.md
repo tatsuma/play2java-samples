@@ -11,3 +11,5 @@ How to use Guice and MyBatis in Play2.
 How to use  Guice and MyBatis in Play2.  
 I’ve to be able to use multiple databases. (AbstractModule -> PrivateModule)
 
+## show current configuration
+Dump the current play application configuration.
